@@ -1,0 +1,114 @@
+[
+  {
+    "teacher_id": "D001",
+    "teacher_name": "Tiempo completo 1",
+    "horas_asignadas": 16,
+    "n_clases": 8,
+    "avg_gap_horas": 3.0
+  },
+  {
+    "teacher_id": "D002",
+    "teacher_name": "Tiempo completo 2",
+    "horas_asignadas": 16,
+    "n_clases": 7,
+    "avg_gap_horas": 4.0
+  },
+  {
+    "teacher_id": "D003",
+    "teacher_name": "Tiempo completo 3",
+    "horas_asignadas": 16,
+    "n_clases": 6,
+    "avg_gap_horas": 9.0
+  },
+  {
+    "teacher_id": "D004",
+    "teacher_name": "Tiempo completo 4",
+    "horas_asignadas": 16,
+    "n_clases": 6,
+    "avg_gap_horas": 1.0
+  },
+  {
+    "teacher_id": "D005",
+    "teacher_name": "Tiempo completo 5",
+    "horas_asignadas": 16,
+    "n_clases": 6,
+    "avg_gap_horas": 4.0
+  },
+  {
+    "teacher_id": "D006",
+    "teacher_name": "Tiempo completo 6",
+    "horas_asignadas": 16,
+    "n_clases": 6,
+    "avg_gap_horas": 5.0
+  },
+  {
+    "teacher_id": "D007",
+    "teacher_name": "Tiempo completo 7",
+    "horas_asignadas": 16,
+    "n_clases": 6,
+    "avg_gap_horas": 1.0
+  },
+  {
+    "teacher_id": "D008",
+    "teacher_name": "Tiempo completo 8",
+    "horas_asignadas": 16,
+    "n_clases": 8,
+    "avg_gap_horas": 1.67
+  },
+  {
+    "teacher_id": "D009",
+    "teacher_name": "Tiempo completo 9",
+    "horas_asignadas": 16,
+    "n_clases": 6,
+    "avg_gap_horas": 2.5
+  },
+  {
+    "teacher_id": "D010",
+    "teacher_name": "Tiempo completo 10",
+    "horas_asignadas": 24,
+    "n_clases": 8,
+    "avg_gap_horas": 2.0
+  },
+  {
+    "teacher_id": "D011",
+    "teacher_name": "Tiempo completo 11",
+    "horas_asignadas": 24,
+    "n_clases": 8,
+    "avg_gap_horas": 1.0
+  },
+  {
+    "teacher_id": "D012",
+    "teacher_name": "Tiempo completo 12",
+    "horas_asignadas": 24,
+    "n_clases": 10,
+    "avg_gap_horas": 1.4
+  },
+  {
+    "teacher_id": "D013",
+    "teacher_name": "Catedra 1",
+    "horas_asignadas": 10,
+    "n_clases": 4,
+    "avg_gap_horas": 2.0
+  },
+  {
+    "teacher_id": "D014",
+    "teacher_name": "Catedra 2",
+    "horas_asignadas": 10,
+    "n_clases": 4,
+    "avg_gap_horas": 0.0
+  },
+  {
+    "teacher_id": "D015",
+    "teacher_name": "Catedra 3",
+    "horas_asignadas": 10,
+    "n_clases": 4,
+    "avg_gap_horas": 1.0
+  },
+  {
+    "teacher_id": "D016",
+    "teacher_name": "Catedra 4",
+    "horas_asignadas": 12,
+    "n_clases": 4,
+    "avg_gap_horas": 0.0
+  }
+]

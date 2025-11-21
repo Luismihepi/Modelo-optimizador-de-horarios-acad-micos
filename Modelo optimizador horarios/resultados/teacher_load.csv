@@ -1,0 +1,17 @@
+teacher_id,teacher_name,horas_asignadas,n_clases,avg_gap_horas
+D001,Tiempo completo 1,16,8,3.0
+D002,Tiempo completo 2,16,7,4.0
+D003,Tiempo completo 3,16,6,9.0
+D004,Tiempo completo 4,16,6,1.0
+D005,Tiempo completo 5,16,6,4.0
+D006,Tiempo completo 6,16,6,5.0
+D007,Tiempo completo 7,16,6,1.0
+D008,Tiempo completo 8,16,8,1.67
+D009,Tiempo completo 9,16,6,2.5
+D010,Tiempo completo 10,24,8,2.0
+D011,Tiempo completo 11,24,8,1.0
+D012,Tiempo completo 12,24,10,1.4
+D013,Catedra 1,10,4,2.0
+D014,Catedra 2,10,4,0.0
+D015,Catedra 3,10,4,1.0
+D016,Catedra 4,12,4,0.0

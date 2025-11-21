@@ -1,0 +1,102 @@
+subject_id,subject,group,students,day,time,start,end,duration,room,room_capacity,room_type,teacher_id,teacher_name,tipo_aula
+167391,Introduccion a la Ingenieria de Sistemas,1/3,23,Viernes,20:00-22:00,20,22,2,CS_114,28,teorica,D007,Tiempo completo 7,teorica
+167391,Introduccion a la Ingenieria de Sistemas,1/3,23,Jueves,07:00-09:00,7,9,2,TEO1,28,teorica,D007,Tiempo completo 7,teorica
+167391,Introduccion a la Ingenieria de Sistemas,2/3,23,Lunes,10:00-12:00,10,12,2,MF107,28,teorica,D001,Tiempo completo 1,teorica
+167391,Introduccion a la Ingenieria de Sistemas,2/3,23,Miércoles,20:00-22:00,20,22,2,MF108,28,teorica,D001,Tiempo completo 1,teorica
+167391,Introduccion a la Ingenieria de Sistemas,3/3,22,Martes,13:00-15:00,13,15,2,MF106,28,teorica,D001,Tiempo completo 1,teorica
+167391,Introduccion a la Ingenieria de Sistemas,3/3,22,Miércoles,16:00-18:00,16,18,2,AULA_TIC,28,teorica,D001,Tiempo completo 1,teorica
+167390,Pensamiento Computacional,1/3,21,Lunes,19:00-22:00,19,22,3,JG_211,28,teorica,D014,Catedra 2,teorica
+167390,Pensamiento Computacional,1/3,21,Jueves,18:00-21:00,18,21,3,FJ103-1_ALTO_RENDIMIENTO,28,practica,D014,Catedra 2,practica
+167390,Pensamiento Computacional,2/3,21,Jueves,15:00-18:00,15,18,3,JG_211,28,teorica,D016,Catedra 4,teorica
+167390,Pensamiento Computacional,2/3,21,Viernes,19:00-22:00,19,22,3,JG102-2_TIC,28,practica,D016,Catedra 4,practica
+167390,Pensamiento Computacional,3/3,21,Jueves,19:00-22:00,19,22,3,TEO1,28,teorica,D003,Tiempo completo 3,teorica
+167390,Pensamiento Computacional,3/3,21,Martes,19:00-22:00,19,22,3,FJ103-2_ING_SOFT,28,practica,D003,Tiempo completo 3,practica
+167392,Fundamentos de Programacion,1/4,28,Lunes,16:00-19:00,16,19,3,MF106,28,teorica,D006,Tiempo completo 6,teorica
+167392,Fundamentos de Programacion,1/4,28,Martes,10:00-13:00,10,13,3,JG102-2_TIC,28,practica,D006,Tiempo completo 6,practica
+167392,Fundamentos de Programacion,2/4,28,Jueves,12:00-15:00,12,15,3,CS_114,28,teorica,D006,Tiempo completo 6,teorica
+167392,Fundamentos de Programacion,2/4,28,Viernes,19:00-22:00,19,22,3,JG102-1_CICOM,28,practica,D006,Tiempo completo 6,practica
+167392,Fundamentos de Programacion,3/4,27,Lunes,16:00-19:00,16,19,3,AULA_TIC,28,teorica,D016,Catedra 4,teorica
+167392,Fundamentos de Programacion,3/4,27,Martes,10:00-13:00,10,13,3,FJ103-2_ING_SOFT,28,practica,D016,Catedra 4,practica
+167392,Fundamentos de Programacion,4/4,27,Viernes,10:00-13:00,10,13,3,MF107,28,teorica,D013,Catedra 1,teorica
+167392,Fundamentos de Programacion,4/4,27,Martes,07:00-10:00,7,10,3,FJ103-1_ALTO_RENDIMIENTO,28,practica,D013,Catedra 1,practica
+167393,Gestion de Proyectos,1/3,22,Miércoles,20:00-22:00,20,22,2,MF107,28,teorica,D008,Tiempo completo 8,teorica
+167393,Gestion de Proyectos,1/3,22,Jueves,10:00-12:00,10,12,2,LAB1,28,practica,D008,Tiempo completo 8,practica
+167393,Gestion de Proyectos,2/3,21,Martes,17:00-19:00,17,19,2,JG_211,28,teorica,D001,Tiempo completo 1,teorica
+167393,Gestion de Proyectos,2/3,21,Jueves,17:00-19:00,17,19,2,LAB1,28,practica,D001,Tiempo completo 1,practica
+167393,Gestion de Proyectos,3/3,21,Viernes,14:00-16:00,14,16,2,CS_114,28,teorica,D014,Catedra 2,teorica
+167393,Gestion de Proyectos,3/3,21,Sábado,08:00-10:00,8,10,2,LAB1,28,practica,D014,Catedra 2,practica
+167394,Programacion Orientada a Objetos,1/3,23,Jueves,10:00-13:00,10,13,3,MF107,28,teorica,D002,Tiempo completo 2,teorica
+167394,Programacion Orientada a Objetos,1/3,23,Martes,19:00-22:00,19,22,3,LAB1,28,practica,D002,Tiempo completo 2,practica
+167394,Programacion Orientada a Objetos,2/3,23,Miércoles,17:00-20:00,17,20,3,MF107,28,teorica,D009,Tiempo completo 9,teorica
+167394,Programacion Orientada a Objetos,2/3,23,Jueves,15:00-18:00,15,18,3,JG102-2_TIC,28,practica,D009,Tiempo completo 9,practica
+167394,Programacion Orientada a Objetos,3/3,23,Miércoles,07:00-10:00,7,10,3,MF108,28,teorica,D011,Tiempo completo 11,teorica
+167394,Programacion Orientada a Objetos,3/3,23,Martes,19:00-22:00,19,22,3,JG102-1_CICOM,28,practica,D011,Tiempo completo 11,practica
+167396,Estructura de Datos y Analisis de Algoritmos,1/2,19,Lunes,19:00-22:00,19,22,3,MF107,28,teorica,D004,Tiempo completo 4,teorica
+167396,Estructura de Datos y Analisis de Algoritmos,1/2,19,Miércoles,19:00-22:00,19,22,3,FJ103-1_ALTO_RENDIMIENTO,28,practica,D004,Tiempo completo 4,practica
+167396,Estructura de Datos y Analisis de Algoritmos,2/2,18,Martes,11:00-14:00,11,14,3,JG_211,28,teorica,D004,Tiempo completo 4,teorica
+167396,Estructura de Datos y Analisis de Algoritmos,2/2,18,Martes,07:00-10:00,7,10,3,JG102-2_TIC,28,practica,D004,Tiempo completo 4,practica
+167397,Sistemas de Informacion,1/3,23,Lunes,16:00-19:00,16,19,3,MF107,28,teorica,D011,Tiempo completo 11,teorica
+167397,Sistemas de Informacion,1/3,23,Martes,07:00-10:00,7,10,3,FJ103-2_ING_SOFT,28,practica,D011,Tiempo completo 11,practica
+167397,Sistemas de Informacion,2/3,22,Miércoles,10:00-13:00,10,13,3,MF106,28,teorica,D010,Tiempo completo 10,teorica
+167397,Sistemas de Informacion,2/3,22,Viernes,08:00-11:00,8,11,3,JG102-1_CICOM,28,practica,D010,Tiempo completo 10,practica
+167397,Sistemas de Informacion,3/3,22,Lunes,19:00-22:00,19,22,3,MF108,28,teorica,D010,Tiempo completo 10,teorica
+167397,Sistemas de Informacion,3/3,22,Jueves,07:00-10:00,7,10,3,JG102-1_CICOM,28,practica,D010,Tiempo completo 10,practica
+167402,Arquitecturas Empresariales,1/2,19,Miércoles,07:00-10:00,7,10,3,MF107,28,teorica,D010,Tiempo completo 10,teorica
+167402,Arquitecturas Empresariales,1/2,19,Viernes,13:00-16:00,13,16,3,JG102-1_CICOM,28,practica,D010,Tiempo completo 10,practica
+167402,Arquitecturas Empresariales,2/2,19,Miércoles,17:00-20:00,17,20,3,CS_114,28,teorica,D010,Tiempo completo 10,teorica
+167402,Arquitecturas Empresariales,2/2,19,Martes,07:00-10:00,7,10,3,JG102-1_CICOM,28,practica,D010,Tiempo completo 10,practica
+167401,Base de Datos I,1/2,28,Viernes,15:00-18:00,15,18,3,MF108,28,teorica,D011,Tiempo completo 11,teorica
+167401,Base de Datos I,1/2,28,Martes,10:00-13:00,10,13,3,JG102-1_CICOM,28,practica,D011,Tiempo completo 11,practica
+167401,Base de Datos I,2/2,28,Martes,15:00-18:00,15,18,3,AULA_TIC,28,teorica,D011,Tiempo completo 11,teorica
+167401,Base de Datos I,2/2,28,Jueves,15:00-18:00,15,18,3,FJ103-1_ALTO_RENDIMIENTO,28,practica,D011,Tiempo completo 11,practica
+167399,Estructuras Computacionales Discretas,1/2,27,Miércoles,07:00-10:00,7,10,3,JG_211,28,teorica,D005,Tiempo completo 5,teorica
+167399,Estructuras Computacionales Discretas,1/2,27,Viernes,12:00-15:00,12,15,3,JG102-2_TIC,28,practica,D005,Tiempo completo 5,practica
+167399,Estructuras Computacionales Discretas,2/2,26,Sábado,18:00-21:00,18,21,3,JG_211,28,teorica,D015,Catedra 3,teorica
+167399,Estructuras Computacionales Discretas,2/2,26,Viernes,16:00-19:00,16,19,3,JG102-1_CICOM,28,practica,D015,Catedra 3,practica
+167400,Investigacion en Ingenieria de Sistemas,1/1,22,Miércoles,15:00-17:00,15,17,2,MF106,28,teorica,D008,Tiempo completo 8,teorica
+167400,Investigacion en Ingenieria de Sistemas,1/1,22,Viernes,15:00-17:00,15,17,2,LAB1,28,practica,D008,Tiempo completo 8,practica
+167398,Plataformas tecnologicas,1/2,24,Jueves,20:00-22:00,20,22,2,JG_211,28,teorica,D015,Catedra 3,teorica
+167398,Plataformas tecnologicas,1/2,24,Sábado,15:00-17:00,15,17,2,JG102-2_TIC,28,practica,D015,Catedra 3,practica
+167398,Plataformas tecnologicas,2/2,23,Miércoles,20:00-22:00,20,22,2,CS_114,28,teorica,D002,Tiempo completo 2,teorica
+167398,Plataformas tecnologicas,2/2,23,Martes,17:00-19:00,17,19,2,LAB1,28,practica,D002,Tiempo completo 2,practica
+167403,Algoritmos Numericos para Ingenieria,1/1,16,Viernes,07:00-09:00,7,9,2,MF107,28,teorica,D003,Tiempo completo 3,teorica
+167403,Algoritmos Numericos para Ingenieria,1/1,16,Miércoles,11:00-13:00,11,13,2,JG102-1_CICOM,28,practica,D003,Tiempo completo 3,practica
+167406,Base de datos II,1/2,21,Lunes,16:00-19:00,16,19,3,MF108,28,teorica,D012,Tiempo completo 12,teorica
+167406,Base de datos II,1/2,21,Lunes,19:00-22:00,19,22,3,FJ103-1_ALTO_RENDIMIENTO,28,practica,D012,Tiempo completo 12,practica
+167406,Base de datos II,2/2,20,Jueves,19:00-22:00,19,22,3,MF107,28,teorica,D012,Tiempo completo 12,teorica
+167406,Base de datos II,2/2,20,Miércoles,19:00-22:00,19,22,3,JG102-2_TIC,28,practica,D012,Tiempo completo 12,practica
+167404,Desarrollo Orientado a Plataformas,1/2,16,Jueves,20:00-22:00,20,22,2,MF108,28,teorica,D005,Tiempo completo 5,teorica
+167404,Desarrollo Orientado a Plataformas,1/2,16,Martes,07:00-10:00,7,10,3,LAB1,28,practica,D005,Tiempo completo 5,practica
+167404,Desarrollo Orientado a Plataformas,2/2,15,Jueves,14:00-16:00,14,16,2,MF108,28,teorica,D005,Tiempo completo 5,teorica
+167404,Desarrollo Orientado a Plataformas,2/2,15,Lunes,19:00-22:00,19,22,3,JG102-1_CICOM,28,practica,D005,Tiempo completo 5,practica
+167405,Logica y Representacion del Conocimiento,1/1,27,Jueves,07:00-09:00,7,9,2,AULA_TIC,28,teorica,D008,Tiempo completo 8,teorica
+167405,Logica y Representacion del Conocimiento,1/1,27,Lunes,12:00-14:00,12,14,2,LAB1,28,practica,D008,Tiempo completo 8,practica
+167409,Paradigmas de Programacion,1/1,26,Miércoles,20:00-22:00,20,22,2,AULA_TIC,28,teorica,D006,Tiempo completo 6,teorica
+167409,Paradigmas de Programacion,1/1,26,Jueves,20:00-22:00,20,22,2,LAB1,28,practica,D006,Tiempo completo 6,practica
+167410,Proyecto Integrador,1/1,11,Viernes,07:00-09:00,7,9,2,AULA_TIC,28,teorica,D002,Tiempo completo 2,teorica
+167407,Redes,1/1,15,Miércoles,07:00-10:00,7,10,3,AULA_TIC,28,teorica,D009,Tiempo completo 9,teorica
+167407,Redes,1/1,15,Jueves,07:00-10:00,7,10,3,FJ103-1_ALTO_RENDIMIENTO,28,practica,D009,Tiempo completo 9,practica
+167408,Teoria de la Computacion,1/1,21,Martes,12:00-14:00,12,14,2,MF107,28,teorica,D008,Tiempo completo 8,teorica
+167408,Teoria de la Computacion,1/1,21,Jueves,13:00-15:00,13,15,2,JG102-1_CICOM,28,practica,D008,Tiempo completo 8,practica
+167411,Fundamentos de Computacion Paralela y Distribuida,1/1,20,Martes,15:00-18:00,15,18,3,MF106,28,teorica,D007,Tiempo completo 7,teorica
+167411,Fundamentos de Computacion Paralela y Distribuida,1/1,20,Miércoles,13:00-16:00,13,16,3,JG102-1_CICOM,28,practica,D007,Tiempo completo 7,practica
+167413,Sistemas Inteligentes,1/1,24,Lunes,07:00-10:00,7,10,3,MF108,28,teorica,D007,Tiempo completo 7,teorica
+167413,Sistemas Inteligentes,1/1,24,Martes,19:00-22:00,19,22,3,JG102-2_TIC,28,practica,D007,Tiempo completo 7,practica
+167412,Ingenieria de Software I,1/2,15,Viernes,07:00-09:00,7,9,2,MF108,28,teorica,D004,Tiempo completo 4,teorica
+167412,Ingenieria de Software I,1/2,15,Jueves,14:00-16:00,14,16,2,FJ103-2_ING_SOFT,28,practica,D004,Tiempo completo 4,practica
+167412,Ingenieria de Software I,2/2,15,Jueves,07:00-09:00,7,9,2,JG_211,28,teorica,D013,Catedra 1,teorica
+167412,Ingenieria de Software I,2/2,15,Jueves,11:00-13:00,11,13,2,JG102-2_TIC,28,practica,D013,Catedra 1,practica
+167414,Modelado y simulacion de Sistemas continuos,1/1,18,Lunes,16:00-19:00,16,19,3,CS_114,28,teorica,D003,Tiempo completo 3,teorica
+167414,Modelado y simulacion de Sistemas continuos,1/1,18,Jueves,07:00-10:00,7,10,3,JG102-2_TIC,28,practica,D003,Tiempo completo 3,practica
+167417,Ciencia de Datos,1/1,21,Viernes,20:00-22:00,20,22,2,MF108,28,teorica,D012,Tiempo completo 12,teorica
+167417,Ciencia de Datos,1/1,21,Lunes,13:00-15:00,13,15,2,FJ103-1_ALTO_RENDIMIENTO,28,practica,D012,Tiempo completo 12,practica
+167415,Ingenieria de Software II,1/1,28,Martes,12:00-14:00,12,14,2,MF108,28,teorica,D012,Tiempo completo 12,teorica
+167415,Ingenieria de Software II,1/1,28,Jueves,15:00-17:00,15,17,2,LAB1,28,practica,D012,Tiempo completo 12,practica
+167416,Legislacion Informatica y asuntos sociales,1/1,25,Jueves,07:00-09:00,7,9,2,MF107,28,teorica,D001,Tiempo completo 1,teorica
+167416,Legislacion Informatica y asuntos sociales,1/1,25,Lunes,08:00-10:00,8,10,2,AULA_TIC,28,teorica,D001,Tiempo completo 1,teorica
+167418,Modelado y Simulacion de Sistemas Discretos,1/1,22,Martes,10:00-12:00,10,12,2,AULA_TIC,28,teorica,D012,Tiempo completo 12,teorica
+167418,Modelado y Simulacion de Sistemas Discretos,1/1,22,Lunes,07:00-09:00,7,9,2,JG102-2_TIC,28,practica,D012,Tiempo completo 12,practica
+167420,Ingenieria de software III,1/1,22,Jueves,07:00-09:00,7,9,2,MF106,28,teorica,D002,Tiempo completo 2,teorica
+167420,Ingenieria de software III,1/1,22,Miércoles,07:00-09:00,7,9,2,JG102-1_CICOM,28,practica,D002,Tiempo completo 2,practica
+167421,Seguridad Informatica,1/1,26,Miércoles,20:00-22:00,20,22,2,MF106,28,teorica,D009,Tiempo completo 9,teorica
+167421,Seguridad Informatica,1/1,26,Jueves,13:00-15:00,13,15,2,JG102-2_TIC,28,practica,D009,Tiempo completo 9,practica

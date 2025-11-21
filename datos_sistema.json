@@ -1,0 +1,830 @@
+{
+  "docentes": {
+    "D001": {
+      "nombre": "Tiempo completo 1",
+      "tipo_vinculacion": "planta",
+      "limite_horas_semanales": 16,
+      "especialidades": [
+        "legislacion informatica y asuntos sociales",
+        "gestion de proyectos",
+        "introduccion a la ingenieria de sistemas"
+      ],
+      "disponibilidad": {
+        "Lunes": [
+          "07:00-22:00"
+        ],
+        "Martes": [
+          "07:00-22:00"
+        ],
+        "Miércoles": [
+          "07:00-22:00"
+        ],
+        "Jueves": [
+          "07:00-22:00"
+        ],
+        "Viernes": [
+          "07:00-22:00"
+        ]
+        
+      }
+    },
+    "D002": {
+      "nombre": "Tiempo completo 2",
+      "tipo_vinculacion": "planta",
+      "limite_horas_semanales": 16,
+      "especialidades": [
+        "ingenieria de software 2",
+        "ingenieria de software 3",
+        "arquitecturas empresariales",
+        "proyecto integrador"
+      ],
+      "disponibilidad": {
+        "Lunes": [
+          "07:00-22:00"
+        ],
+        "Martes": [
+          "07:00-22:00"
+        ],
+        "Miércoles": [
+          "07:00-22:00"
+        ],
+        "Jueves": [
+          "07:00-22:00"
+        ],
+        "Viernes": [
+          "07:00-22:00"
+        ]
+        
+      }
+    },
+    "D003": {
+      "nombre": "Tiempo completo 3",
+      "tipo_vinculacion": "planta",
+      "limite_horas_semanales": 16,
+      "especialidades": [
+        "modelado y simulacion de sistemas continuos",
+        "algoritmos numericos para ingenieria",
+        "estructuras computacionales discretas"
+      ],
+      "disponibilidad": {
+        "Lunes": [
+          "07:00-22:00"
+        ],
+        "Martes": [
+          "07:00-22:00"
+        ],
+        "Miércoles": [
+          "07:00-22:00"
+        ],
+        "Jueves": [
+          "07:00-22:00"
+        ],
+        "Viernes": [
+          "07:00-22:00"
+        ]
+      }
+    },
+    "D004": {
+      "nombre": "Tiempo completo 4",
+      "tipo_vinculacion": "planta",
+      "limite_horas_semanales": 16,
+      "especialidades": [
+        "ingenieria de software 1",
+        "estructura de datos y analisis de algoritmos"
+      ],
+      "disponibilidad": {
+        "Lunes": [
+          "07:00-22:00"
+        ],
+        "Martes": [
+          "07:00-22:00"
+        ],
+        "Miércoles": [
+          "07:00-22:00"
+        ],
+        "Jueves": [
+          "07:00-22:00"
+        ],
+        "Viernes": [
+          "07:00-22:00"
+        ]
+      }
+    },
+    "D005": {
+      "nombre": "Tiempo completo 5",
+      "tipo_vinculacion": "planta",
+      "limite_horas_semanales": 16,
+      "especialidades": [
+        "desarrollo orientado a plataformas",
+        "estructuras computacionales discretas"
+      ],
+      "disponibilidad": {
+        "Lunes": [
+          "07:00-22:00"
+        ],
+        "Martes": [
+          "07:00-22:00"
+        ],
+        "Miércoles": [
+          "07:00-22:00"
+        ],
+        "Jueves": [
+          "07:00-22:00"
+        ],
+        "Viernes": [
+          "07:00-22:00"
+        ]
+      }
+    },
+    "D006": {
+      "nombre": "Tiempo completo 6",
+      "tipo_vinculacion": "planta",
+      "limite_horas_semanales": 16,
+      "especialidades": [
+        "fundamentos de programacion",
+        "paradigmas de programacion",
+        "pensamiento computacional"
+      ],
+      "disponibilidad": {
+        "Lunes": [
+          "07:00-22:00"
+        ],
+        "Martes": [
+          "07:00-22:00"
+        ],
+        "Miércoles": [
+          "07:00-22:00"
+        ],
+        "Jueves": [
+          "07:00-22:00"
+        ],
+        "Viernes": [
+          "07:00-22:00"
+        ]
+      }
+    },
+    "D007": {
+      "nombre": "Tiempo completo 7",
+      "tipo_vinculacion": "planta",
+      "limite_horas_semanales": 16,
+      "especialidades": [
+        "sistemas inteligentes",
+        "fundamentos de computacion paralela y distribuida",
+        "introduccion a la ingenieria de sistemas"
+      ],
+      "disponibilidad": {
+        "Lunes": [
+          "07:00-22:00"
+        ],
+        "Martes": [
+          "07:00-22:00"
+        ],
+        "Miércoles": [
+          "07:00-22:00"
+        ],
+        "Jueves": [
+          "07:00-22:00"
+        ],
+        "Viernes": [
+          "07:00-22:00"
+        ]
+      }
+    },
+    "D008": {
+      "nombre": "Tiempo completo 8",
+      "tipo_vinculacion": "planta",
+      "limite_horas_semanales": 16,
+      "especialidades": [
+        "logica y representacion del conocimiento",
+        "teoria de la computacion",
+        "investigacion en ingenieria de sistemas"
+      ],
+      "disponibilidad": {
+        "Lunes": [
+          "07:00-22:00"
+        ],
+        "Martes": [
+          "07:00-22:00"
+        ],
+        "Miércoles": [
+          "07:00-22:00"
+        ],
+        "Jueves": [
+          "07:00-22:00"
+        ],
+        "Viernes": [
+          "07:00-22:00"
+        ]
+      }
+    },
+    "D009": {
+      "nombre": "Tiempo completo 9",
+      "tipo_vinculacion": "planta",
+      "limite_horas_semanales": 16,
+      "especialidades": [
+        "redes",
+        "seguridad informatica",
+        "introduccion a la ingenieria de sistemas"
+      ],
+      "disponibilidad": {
+        "Lunes": [
+          "07:00-22:00"
+        ],
+        "Martes": [
+          "07:00-22:00"
+        ],
+        "Miércoles": [
+          "07:00-22:00"
+        ],
+        "Jueves": [
+          "07:00-22:00"
+        ],
+        "Viernes": [
+          "07:00-22:00"
+        ]
+      }
+    },
+    "D010": {
+      "nombre": "Tiempo completo 10",
+      "tipo_vinculacion": "ocasional",
+      "limite_horas_semanales": 24,
+      "especialidades": [
+        "base de datos 1",
+        "ingenieria de software 2",
+        "pensamiento computacional",
+        "gestion de proyectos",
+        "plataformas tecnologicas"
+      ],
+      "disponibilidad": {
+        "Lunes": [
+          "07:00-22:00"
+        ],
+        "Martes": [
+          "07:00-22:00"
+        ],
+        "Miércoles": [
+          "07:00-22:00"
+        ],
+        "Jueves": [
+          "07:00-22:00"
+        ],
+        "Viernes": [
+          "07:00-22:00"
+        ]
+      }
+    },
+    "D011": {
+      "nombre": "Tiempo completo 11",
+      "tipo_vinculacion": "ocasional",
+      "limite_horas_semanales": 24,
+      "especialidades": [
+        "programacion orientada a objetos",
+        "pensamiento computacional",
+        "base de datos 1",
+        "fundamentos de programacion"
+      ],
+      "disponibilidad": {
+        "Lunes": [
+          "07:00-22:00"
+        ],
+        "Martes": [
+          "07:00-22:00"
+        ],
+        "Miércoles": [
+          "07:00-22:00"
+        ],
+        "Jueves": [
+          "07:00-22:00"
+        ],
+        "Viernes": [
+          "07:00-22:00"
+        ]
+      }
+    },
+    "D012": {
+      "nombre": "Tiempo completo 12",
+      "tipo_vinculacion": "ocasional",
+      "limite_horas_semanales": 24,
+      "especialidades": [
+        "base de datos 2",
+        "modelado y simulacion de sistemas discretos",
+        "ciencia de datos",
+        "estructuras computacionales discretas"
+      ],
+      "disponibilidad": {
+        "Lunes": [
+          "07:00-22:00"
+        ],
+        "Martes": [
+          "07:00-22:00"
+        ],
+        "Miércoles": [
+          "07:00-22:00"
+        ],
+        "Jueves": [
+          "07:00-22:00"
+        ],
+        "Viernes": [
+          "07:00-22:00"
+        ]
+      }
+    },
+    "D013": {
+      "nombre": "Catedra 1",
+      "tipo_vinculacion": "catedra",
+      "limite_horas_semanales": 12,
+      "especialidades": [],
+      "disponibilidad": {
+        "Lunes": [
+          "07:00-22:00"
+        ],
+        "Martes": [
+          "07:00-22:00"
+        ],
+        "Miércoles": [
+          "07:00-22:00"
+        ],
+        "Jueves": [
+          "07:00-22:00"
+        ],
+        "Viernes": [
+          "07:00-22:00"
+        ],
+        "Sábado": [
+          "07:00-22:00"
+        ]
+      }
+    },
+    "D014": {
+      "nombre": "Catedra 2",
+      "tipo_vinculacion": "catedra",
+      "limite_horas_semanales": 12,
+      "especialidades": [],
+      "disponibilidad": {
+        "Lunes": [
+          "07:00-22:00"
+        ],
+        "Martes": [
+          "07:00-22:00"
+        ],
+        "Miércoles": [
+          "07:00-22:00"
+        ],
+        "Jueves": [
+          "07:00-22:00"
+        ],
+        "Viernes": [
+          "07:00-22:00"
+        ],
+        "Sábado": [
+          "07:00-22:00"
+        ]
+      }
+    },
+    "D015": {
+      "nombre": "Catedra 3",
+      "tipo_vinculacion": "catedra",
+      "limite_horas_semanales": 12,
+      "especialidades": [],
+      "disponibilidad": {
+        "Lunes": [
+          "07:00-22:00"
+        ],
+        "Martes": [
+          "07:00-22:00"
+        ],
+        "Miércoles": [
+          "07:00-22:00"
+        ],
+        "Jueves": [
+          "07:00-22:00"
+        ],
+        "Viernes": [
+          "07:00-22:00"
+        ],
+        "Sábado": [
+          "07:00-22:00"
+        ]
+      }
+    },
+    "D016": {
+      "nombre": "Catedra 4",
+      "tipo_vinculacion": "catedra",
+      "limite_horas_semanales": 12,
+      "especialidades": [],
+      "disponibilidad": {
+        "Lunes": [
+          "07:00-22:00"
+        ],
+        "Martes": [
+          "07:00-22:00"
+        ],
+        "Miércoles": [
+          "07:00-22:00"
+        ],
+        "Jueves": [
+          "07:00-22:00"
+        ],
+        "Viernes": [
+          "07:00-22:00"
+        ],
+        "Sábado": [
+          "07:00-22:00"
+        ]
+      }
+    }
+    
+    
+  },
+  "asignaturas": {
+    "167391": {
+      "nombre": "Introduccion a la Ingenieria de Sistemas",
+      "horas_semanales": 4,
+      "num_estudiantes": 68,
+      "tipo_aula": "teorica",
+      "possible_teachers": ["D001", "D007", "D009"],
+      "especialidades": [
+        "introduccion a la ingenieria de sistemas"
+      ]
+    },
+    "167390": {
+      "nombre": "Pensamiento Computacional",
+      "horas_semanales": 6,
+      "num_estudiantes": 63,
+      "tipo_aula": "teorico-practica",
+      "possible_teachers": [],
+      "especialidades": [
+        "pensamiento computacional"
+      ]
+    },
+    "167392": {
+      "nombre": "Fundamentos de Programacion",
+      "horas_semanales": 6,
+      "num_estudiantes": 110,
+      "tipo_aula": "teorico-practica",
+      "possible_teachers": ["D006"],
+      "especialidades": [
+        "fundamentos de programacion"
+      ]
+    },
+    "167393": {
+      "nombre": "Gestion de Proyectos",
+      "horas_semanales": 4,
+      "num_estudiantes": 64,
+      "tipo_aula": "teorico-practica",
+      "possible_teachers": [],
+      "especialidades": [
+        "gestion de proyectos"
+      ]
+    },
+    "167394": {
+      "nombre": "Programacion Orientada a Objetos",
+      "horas_semanales": 6,
+      "num_estudiantes": 69,
+      "tipo_aula": "teorico-practica",
+      "possible_teachers": [],
+      "especialidades": [
+        "programacion orientada a objetos"
+      ]
+    },
+    "167396": {
+      "nombre": "Estructura de Datos y Analisis de Algoritmos",
+      "horas_semanales": 6,
+      "num_estudiantes": 37,
+      "tipo_aula": "teorico-practica",
+      "possible_teachers": ["D004"],
+      "especialidades": [
+        "estructura de datos y analisis de algoritmos"
+      ]
+    },
+    "167397": {
+      "nombre": "Sistemas de Informacion",
+      "horas_semanales": 6,
+      "num_estudiantes": 67,
+      "tipo_aula": "teorico-practica",
+      "possible_teachers": [],
+      "especialidades": [
+        "sistemas de informacion"
+      ]
+    },
+    "167402": {
+      "nombre": "Arquitecturas Empresariales",
+      "horas_semanales": 6,
+      "num_estudiantes": 38,
+      "tipo_aula": "teorico-practica",
+      "possible_teachers": [],
+      "especialidades": [
+        "arquitecturas empresariales"
+      ]
+    },
+    "167401": {
+      "nombre": "Base de Datos I",
+      "horas_semanales": 6,
+      "num_estudiantes": 56,
+      "tipo_aula": "teorico-practica",
+      "possible_teachers": [],
+      "especialidades": [
+        "base de datos i"
+      ]
+    },
+    "167399": {
+      "nombre": "Estructuras Computacionales Discretas",
+      "horas_semanales": 6,
+      "num_estudiantes": 53,
+      "tipo_aula": "teorico-practica",
+      "possible_teachers": ["D005"],
+      "especialidades": [
+        "estructuras computacionales discretas"
+      ]
+    },
+    "167400": {
+      "nombre": "Investigacion en Ingenieria de Sistemas",
+      "horas_semanales": 4,
+      "num_estudiantes": 22,
+      "tipo_aula": "teorico-practica",
+      "possible_teachers": ["D008"],
+      "especialidades": [
+        "investigacion en ingenieria de sistemas"
+      ]
+    },
+    "167398": {
+      "nombre": "Plataformas tecnologicas",
+      "horas_semanales": 4,
+      "num_estudiantes": 47,
+      "tipo_aula": "teorico-practica",
+      "possible_teachers": [],
+      "especialidades": [
+        "plataformas tecnologicas"
+      ]
+    },
+    "167403": {
+      "nombre": "Algoritmos Numericos para Ingenieria",
+      "horas_semanales": 4,
+      "num_estudiantes": 16,
+      "tipo_aula": "teorico-practica",
+      "possible_teachers": ["D003"],
+      "especialidades": [
+        "algoritmos numericos para ingenieria"
+      ]
+    },
+    "167406": {
+      "nombre": "Base de datos II",
+      "horas_semanales": 6,
+      "num_estudiantes": 41,
+      "tipo_aula": "teorico-practica",
+      "possible_teachers": ["D012"],
+      "especialidades": [
+        "base de datos ii"
+      ]
+    },
+    "167404": {
+      "nombre": "Desarrollo Orientado a Plataformas",
+      "horas_semanales": 5,
+      "num_estudiantes": 31,
+      "tipo_aula": "teorico-practica",
+      "possible_teachers": ["D005"],
+      "especialidades": [
+        "desarrollo orientado a plataformas"
+      ]
+    },
+    "167405": {
+      "nombre": "Logica y Representacion del Conocimiento",
+      "horas_semanales": 4,
+      "num_estudiantes": 27,
+      "tipo_aula": "teorico-practica",
+      "possible_teachers": ["D008"],
+      "especialidades": [
+        "logica y representacion del conocimiento"
+      ]
+    },
+    "167409": {
+      "nombre": "Paradigmas de Programacion",
+      "horas_semanales": 4,
+      "num_estudiantes": 26,
+      "tipo_aula": "teorico-practica",
+      "possible_teachers": ["D006"],
+      "especialidades": [
+        "paradigmas de programacion"
+      ]
+    },
+    "167410": {
+      "nombre": "Proyecto Integrador",
+      "horas_semanales": 2,
+      "num_estudiantes": 11,
+      "tipo_aula": "teorica",
+      "possible_teachers": [],
+      "especialidades": [
+        "proyecto integrador"
+      ]
+    },
+    "167407": {
+      "nombre": "Redes",
+      "horas_semanales": 6,
+      "num_estudiantes": 15,
+      "tipo_aula": "teorico-practica",
+      "possible_teachers": ["D009"],
+      "especialidades": [
+        "redes"
+      ]
+    },
+    "167408": {
+      "nombre": "Teoria de la Computacion",
+      "horas_semanales": 4,
+      "num_estudiantes": 21,
+      "tipo_aula": "teorico-practica",
+      "possible_teachers": ["D008"],
+      "especialidades": [
+        "teoria de la computacion"
+      ]
+    },
+    "167411": {
+      "nombre": "Fundamentos de Computacion Paralela y Distribuida",
+      "horas_semanales": 6,
+      "num_estudiantes": 20,
+      "tipo_aula": "teorico-practica",
+      "possible_teachers": ["D007"],
+      "especialidades": [
+        "fundamentos de computacion paralela y distribuida"
+      ]
+    },
+    "167413": {
+      "nombre": "Sistemas Inteligentes",
+      "horas_semanales": 6,
+      "num_estudiantes": 24,
+      "tipo_aula": "teorico-practica",
+      "possible_teachers": ["D007"],
+      "especialidades": [
+        "sistemas inteligentes"
+      ]
+    },
+    "167412": {
+      "nombre": "Ingenieria de Software I",
+      "horas_semanales": 4,
+      "num_estudiantes": 30,
+      "tipo_aula": "teorico-practica",
+      "possible_teachers": ["D004"],
+      "especialidades": [
+        "ingenieria de software i"
+      ]
+    },
+    "167414": {
+      "nombre": "Modelado y simulacion de Sistemas continuos",
+      "horas_semanales": 6,
+      "num_estudiantes": 18,
+      "tipo_aula": "teorico-practica",
+      "possible_teachers": ["D003"],
+      "especialidades": [
+        "modelado y simulacion de sistemas continuos"
+      ]
+    },
+    "167417": {
+      "nombre": "Ciencia de Datos",
+      "horas_semanales": 4,
+      "num_estudiantes": 21,
+      "tipo_aula": "teorico-practica",
+      "possible_teachers": ["D012"],
+      "especialidades": [
+        "ciencia de datos"
+      ]
+    },
+    "167415": {
+      "nombre": "Ingenieria de Software II",
+      "horas_semanales": 4,
+      "num_estudiantes": 28,
+      "tipo_aula": "teorico-practica",
+      "possible_teachers": [],
+      "especialidades": [
+        "ingenieria de software ii"
+      ]
+    },
+    "167416": {
+      "nombre": "Legislacion Informatica y asuntos sociales",
+      "horas_semanales": 4,
+      "num_estudiantes": 25,
+      "tipo_aula": "teorica",
+      "possible_teachers": ["D001"],
+      "especialidades": [
+        "legislacion informatica y asuntos sociales"
+      ]
+    },
+    "167418": {
+      "nombre": "Modelado y Simulacion de Sistemas Discretos",
+      "horas_semanales": 4,
+      "num_estudiantes": 22,
+      "tipo_aula": "teorico-practica",
+      "possible_teachers": ["D012"],
+      "especialidades": [
+        "modelado y simulacion de sistemas discretos"
+      ]
+    },
+    "167420": {
+      "nombre": "Ingenieria de software III",
+      "horas_semanales": 4,
+      "num_estudiantes": 22,
+      "tipo_aula": "teorico-practica",
+      "possible_teachers": [],
+      "especialidades": [
+        "ingenieria de software iii"
+      ]
+    },
+    "167421": {
+      "nombre": "Seguridad Informatica",
+      "horas_semanales": 4,
+      "num_estudiantes": 26,
+      "tipo_aula": "teorico-practica",
+      "possible_teachers": ["D009"],
+      "especialidades": [
+        "seguridad informatica"
+      ]
+    }
+  },
+  "aulas": {
+    "JG102-1_CICOM": {
+      "capacidad": 28,
+      "disponibilidad": "alta",
+      "tipo": "practica",
+      "type": "practica"
+    },
+    "JG102-2_TIC": {
+      "capacidad": 28,
+      "disponibilidad": "alta",
+      "tipo": "practica",
+      "type": "practica"
+    },
+    "FJ103-1_ALTO_RENDIMIENTO": {
+      "capacidad": 28,
+      "disponibilidad": "alta",
+      "tipo": "practica",
+      "type": "practica"
+    },
+    "FJ103-2_ING_SOFT": {
+      "capacidad": 28,
+      "disponibilidad": "alta",
+      "tipo": "practica",
+      "type": "practica"
+    },
+    "LAB1": {
+      "capacidad": 28,
+      "disponibilidad": "alta",
+      "tipo": "practica",
+      "type": "practica"
+    },
+    "MF107": {
+      "capacidad": 28,
+      "disponibilidad": "alta",
+      "tipo": "teorica",
+      "type": "teorica"
+    },
+    "MF108": {
+      "capacidad": 28,
+      "disponibilidad": "alta",
+      "tipo": "teorica",
+      "type": "teorica"
+    },
+    "AULA_TIC": {
+      "capacidad": 28,
+      "disponibilidad": "alta",
+      "tipo": "teorica",
+      "type": "teorica"
+    },
+    "MF106": {
+      "capacidad": 28,
+      "disponibilidad": "alta",
+      "tipo": "teorica",
+      "type": "teorica"
+    },
+    "CS_114": {
+      "capacidad": 28,
+      "disponibilidad": "alta",
+      "tipo": "teorica",
+      "type": "teorica"
+    },
+    "JG_211": {
+      "capacidad": 28,
+      "disponibilidad": "alta",
+      "tipo": "teorica",
+      "type": "teorica"
+    },
+    "TEO1": {
+      "capacidad": 28,
+      "disponibilidad": "alta",
+      "tipo": "teorica",
+      "type": "teorica"
+    }
+  },
+  "configuracion": {
+    "capacidad_maxima_grupo": 28,
+    "horas_maximas_planta": 16,
+    "horas_maximas_ocasional": 24,
+    "horas_maximas_catedra": 12,
+    "prioridad_asignacion": [
+      "alta",
+      "media",
+      "baja"
+    ],
+    "preferencia_docente": [
+      "especializado",
+      "general"
+    ]
+  }
+}

@@ -1,0 +1,5 @@
+Total clases programadas: 101
+Docentes distintos asignados: 16
+Aulas distintas usadas: 12
+Días activos: 6
+Promedio huecos docentes (horas): 2.41
